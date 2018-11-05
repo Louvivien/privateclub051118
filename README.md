@@ -1,4 +1,4 @@
-# Le club privé (test rails) - projet THP 6 août 2018
+# Le club privé (test rails) - projet THP
 
 ## Après avoir cloné le repo
 
