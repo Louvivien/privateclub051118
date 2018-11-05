@@ -10,7 +10,7 @@
 
 ### Heroku
 
-Vous trouverez l'application hébergée sur Heroku au lien suivant : https://private-club-thp.herokuapp.com/
+Vous trouverez l'application hébergée sur Heroku au lien suivant : https://privateclub051118.herokuapp.com/
 
 ### Le projet
 
