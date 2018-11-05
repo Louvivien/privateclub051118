@@ -23,4 +23,4 @@ Si l'utilisateur est connecté, la navbar affichera un lien pour la page du club
 
 ## La team
 
-Ce programme est made in Strasbourg, by Soraya FRUCTUOSO, Samaneh VAEZI et Hugo PAYET avec amour ! Bonne correction les amis :kissing_heart:
+Ce programme est made in Station F by P. de la Tour & F. Pinto & A. Reau & C. Avronsart & L. Martin du Nord & V. Richaud  avec amour ! Bonne correction les amis :kissing_heart:
